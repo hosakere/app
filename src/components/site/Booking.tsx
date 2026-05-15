@@ -38,7 +38,7 @@ export function Booking() {
             together.
           </h2>
           <p className="mt-6 text-foreground/75 leading-relaxed max-w-md">
-            Bridal dates fill up quickly during wedding season. Reach out 4–6
+            Bridal dates fill up quickly during wedding season. Reach out 1–2
             weeks ahead and tell me about your day — I'll respond within hours.
           </p>
 
