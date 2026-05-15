@@ -88,7 +88,7 @@ export function Booking() {
                 <MapPin className="w-5 h-5" />
               </span>
               <div>
-                <div className="text-xs uppercase tracking-[0.2em] text-foreground/50">Studio</div>
+                <div className="text-xs uppercase tracking-[0.2em] text-foreground/50">location</div>
                 <div className="font-display text-lg text-primary">Tumkur & Bangalore</div>
               </div>
             </div>
