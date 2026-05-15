@@ -2,8 +2,8 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { Phone, MessageCircle, Camera as Instagram, Send, MapPin } from "lucide-react";
 
-const PHONE = "+919999999999";
-const WA = "919999999999";
+const PHONE = "+918861380403";
+const WA = "918861380403";
 const IG = "tumkurmehendi_artist";
 
 export function Booking() {
