@@ -48,7 +48,7 @@ export function Footer() {
                 <MapPin className="w-4 h-4 text-[var(--gold)]" /> Tumkur & Bangalore, Karnataka
               </li>
               <li>
-                <a href="tel:+919999999999" className="flex items-center gap-3 hover:text-[var(--gold)] transition-colors text-primary-foreground/80">
+                <a href="tel:+918861380403" className="flex items-center gap-3 hover:text-[var(--gold)] transition-colors text-primary-foreground/80">
                   <Phone className="w-4 h-4 text-[var(--gold)]" /> +91 8861380403
                 </a>
               </li>
