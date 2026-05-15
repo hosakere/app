@@ -49,7 +49,7 @@ export function Footer() {
               </li>
               <li>
                 <a href="tel:+919999999999" className="flex items-center gap-3 hover:text-[var(--gold)] transition-colors text-primary-foreground/80">
-                  <Phone className="w-4 h-4 text-[var(--gold)]" /> +91 99999 99999
+                  <Phone className="w-4 h-4 text-[var(--gold)]" /> +91 8861380403
                 </a>
               </li>
               <li>
