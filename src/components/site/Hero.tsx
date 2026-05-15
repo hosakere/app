@@ -77,7 +77,7 @@ export function Hero() {
           transition={{ duration: 1, delay: 0.8 }}
           className="mt-16 flex flex-wrap items-center gap-x-10 gap-y-4 text-xs uppercase tracking-[0.25em] text-foreground/50"
         >
-          <span>500+ Brides</span>
+          <span>2000+ Brides</span>
           <span className="text-[var(--gold)]">•</span>
           <span>8 Years of Craft</span>
           <span className="text-[var(--gold)]">•</span>
